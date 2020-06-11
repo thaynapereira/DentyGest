@@ -1,4 +1,4 @@
-# new
+# Projeto Final de Curso
 
 * Thayná Pereira
 * João Canelas
